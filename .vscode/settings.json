@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "username": "mieraci",
+            "name": "data_modeling_connection",
+            "group": "data_modeling_exercise",
+            "database": "medical_center"
+        }
+    ]
+}
